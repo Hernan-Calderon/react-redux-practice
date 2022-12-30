@@ -4,6 +4,7 @@ function Prueba() {
   return (
     <div>
       <h1>Hola inmundicia</h1>
+      <h1>Hola inmundicia</h1>
     </div>
   );
 }
